@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+    body{
+        margin: 0;
+        width:100%;
+        }
+    .main-top-state {
+        display: block;
+        margin-top: 0px;
+		overflow-x: hidden;
+		width: 100%;
+        height: 110px;
+		background-image: linear-gradient(#08A45A, #00DE72);
+		position: relative;
+	}
+    .main-top-state-fangwei {
+		height: 18px;
+        /* background-color: #00DE72; */
+		position: absolute;
+		bottom: 0px;
+		/* background-color: red; */
+		overflow: hidden;
+		margin-left: -150%;
+	}
+    .main-top-state-fangwei-animation {
+		display: inline-table;
+		margin-right: 30px;
+		width: 33px;
+		height: 18px;
+		transform: skew(-40deg);
+		background-color: white;
+		animation: fangweiAnimation 4.2s infinite linear;
+    
+	}
+    @keyframes fangweiAnimation {
+		from {
+			transform: translateX(0px) skew(-40deg);
+		}
+
+		to {
+			transform: translateX(313px) skew(-40deg);
+		}
+	}
+  
+
+</style>
+
+<body>
+<view class="main-top-state">
+    <view class="main-top-state-fangwei">
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+        <view class="main-top-state-fangwei-animation"></view>
+    </view>
+</view>
+</body>
+
+</html>

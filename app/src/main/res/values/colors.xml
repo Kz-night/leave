@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="while_color">#FFFFFF</color>
+    <color name="black_color">#000000</color>
+    <color name="detail_title_color">#161A28</color>
+    <color name="detail_Feedback_color">#41E0EB</color>
+    <color name="detail_check_color">#b0b1b5</color>
+    <color name="detail_check_on_color">#3399FE</color>
+    <color name="leaving_state_color">#FE9900</color>
+    <color name="leaving_state_start_bg_color">#08A45A</color>
+    <color name="leaving_state_end_bg_color">#08A45A</color>
+    <color name="now_time_bg_color">#B3464C5A</color>
+    <color name="Separate_bg_color">#F6F7F9</color>
+    <color name="Separate_line_color">#D7DDE4</color>
+    <color name="line_color">#D6D6D6</color>
+    <color name="step_round_blue_color">#1D85F4</color>
+    <color name="step_round_green_color">#04C876</color>
+    <color name="step_line_color">#DADFE5</color>
+    <color name="opinion_bg_color">#F6F7F9</color>
+    <color name="opinion_stoke_color">#D6DDE3</color>
+    <color name="total_time_bg_color">#EBF5FF</color>
+    <color name="total_time_stoke_color">#97C3F4</color>
+    <color name="bottom_stoke_color">#EBEBEB</color>
+    <color name="button_unable_color">#666666</color>
+
+    <!--    text-color-->
+    <color name="title_text_color">#484C58</color>
+    <color name="key_text_color">#A0A7AF</color>
+    <color name="value_main_text_color">#68717A</color>
+    <color name="value_rule_text_color">#F79A0D</color>
+    <color name="value_position_text_color">#2C8CF0</color>
+    <color name="total_time_text_color">#3398FF</color>
+    <color name="step_opinion_text_color">#9EA8B2</color>
+    <color name="step_time_text_color">#A0A8B3</color>
+    <color name="step_content_text_color">#67717D</color>
+    <color name="bottom_main_text_color">#66717F</color>
+</resources>
